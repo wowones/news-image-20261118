@@ -8,10 +8,9 @@ A deterministic editorial infographic generator that renders a 1024×1024 visual
 
 ## Run it
 
-
-default='node main.ts'
-
-echo "$default"
+```sh
+node main.ts
+```
 
 ---
 
